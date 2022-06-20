@@ -1,2 +1,2 @@
-# presentasi-distro-linux
+# Tugas-Kelas-PPL
 Tugas Presentasi Distro Linux
